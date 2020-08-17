@@ -1,0 +1,6 @@
+A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing
+Code: https://github.com/JDAI-CV/lapa-dataset
+JRMOT: A Real-Time 3D Multi-Object Tracker and a New Large-Scale Dataset
+Code: https://github.com/StanfordVL/JRMOT_ROS
+LaPa-Dataset - a new large-scale Landmark guided face Parsing dataset (LaPa)
+Code: https://github.com/JDAI-CV/lapa-dataset
